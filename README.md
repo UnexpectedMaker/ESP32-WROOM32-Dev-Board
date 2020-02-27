@@ -15,13 +15,22 @@ Anyway, this was just an experiment and it’s been a fun and frustrating journe
 
 Enjoy!
 
-# Buy me a coffee or back me on Patreon?
-I love making and designing projects but sharing open source projects takes a lot of thought and time. I do it because I think it’s important to share knowledge and give back to the community like many have done before me.
+# Support Unexpected Maker
 
-If you find this project useful or want to see more open source projects like it, please consider buying me a coffee or backing me on Patreon to say thanks!
+I love designing, making and releasing our projects as open source. I do it because I believe it’s important to share knowledge and give back to the community, like many have done before me. It helps us all learn and grow.
 
-[![buymeacofee](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/YLVGbhJP0)
+That said, a lot of time, effort and finances have gone into designing and releasing these files, so please consider supporting me by buy some of my TiinyPICO products:
+
+https://tinypico.com/shop
+
+Or by buying one of our products on tindie:
+
+https://www.tindie.com/stores/seonr/
+
+Or by becoming a Patron:
+
 [![patreon](http://3sprockets.com.au/um/PatreonSmall.jpg)](https://www.patreon.com/unexpectedmaker)
+
 
 # Unexpected Maker
 http://youtube.com/c/unexpectedmaker
@@ -31,5 +40,3 @@ http://twitter.com/unexpectedmaker
 https://www.facebook.com/unexpectedmaker/
 
 https://www.instagram.com/unexpectedmaker/
-
-https://www.tindie.com/stores/seonr/
